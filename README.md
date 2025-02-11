@@ -5,10 +5,8 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
-- 🌏 &nbsp; I'm from Buenos Aires, Argentina.
+- 🇨🇴 &nbsp; I'm from Bogotá, Colombia.
 - 🤔 &nbsp; Exploring new technologies and developing web applications.
-- 🎓 &nbsp; First year complete at Computer Science and Henry bootcamp complete.
-- 💼 &nbsp; Teaching Assistant at Henry Bootcamp.
 - 🌱 &nbsp; Learning more about Front-end technologies, design and UI/UX.
 
 <br/>
